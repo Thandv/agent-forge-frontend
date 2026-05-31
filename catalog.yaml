@@ -1,0 +1,14 @@
+bundle: agent-forge-frontend
+items:
+  - id: agent/frontend/frontend-developer
+    kind: agent
+    name: frontend-developer
+    domain: frontend
+    license: MIT
+    description: Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture. O
+  - id: agent/frontend/ui-ux-designer
+    kind: agent
+    name: ui-ux-designer
+    domain: frontend
+    license: MIT
+    description: Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Specializes in design tokens,
